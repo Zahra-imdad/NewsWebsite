@@ -1,0 +1,21 @@
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+  padding: 21px;
+  border-bottom-left-radius: 20% !important;
+  border-bottom-right-radius: 20% !important;
+}
+.btn.disabled, .btn:disabled {
+  color: white;
+  background-color: rgba(143, 138, 138, 0.233);
+}
+.card {
+  border: none;
+}
+small.text-muted {
+  font-size: 14px;
+}
+.badge{
+  font-size: 16px !important;
+}
+.col-md-4 {
+  margin-bottom: 30px;
+}
